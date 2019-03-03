@@ -379,10 +379,6 @@ bool TicTacToe:: check_winner(){
     
 }
 
-
-
-
-
 bool TicTacToe::get_game_over(){ //returns whether the game is over or not
     /*
     Returns state of game
